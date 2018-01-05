@@ -1,6 +1,7 @@
-# IKEA Dataset for Interior Design
+# Interior Design Dataset - IKEA
 
-Dataset was collected from IKEA.com website for the purpose of Style Search engine.
+Dataset was collected from IKEA.com website for the purpose of building Style Search engine.
+Please note that all images are property of IKEA.COM and are only allowed for non-commercial use.
 
 It consists of :
 * 2193 object (product) photos.
@@ -10,7 +11,7 @@ It consists of :
 
 We group together objects of the same category (chair, table, sofa, etc).
 
-![alt text](https://github.com/ivona-tooploox/ikea/blob/master/dataset_description.png)
+![alt text](https://github.com/IvonaTau/ikea/blob/master/dataset_description.png)
 
 
 # Cite
